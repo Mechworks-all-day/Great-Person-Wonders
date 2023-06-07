@@ -9,7 +9,7 @@
               "[+20]% [Gold] [in this city] <after discovering [Education]>",
               "[Great Merchant] is earned [+33]% faster <starting from the [Industrial era]>",
               "May buy [Great Merchant] units for [200] [Faith] [in this city] at an increasing price ([100]) <before the [Industrial era]>",
-              "May buy [baseUnitFilter] units for [1000] [Faith] [in this city] at an increasing price ([500]) <starting from the [Industrial era]>"
+              "May buy [Great Merchant] units for [1000] [Faith] [in this city] at an increasing price ([500]) <starting from the [Industrial era]>"
              ],
   "requiredTech": "Currency",
   "quote": "'Merchants have no country. The mere spot they stand on does not constitute so strong an attachment as that from which they draw their gains.'-Thomas Jefferson"
@@ -36,7 +36,7 @@
   "uniques": [
               "[+2 Production]",
               "[+20]% [Production] [in this city] <after discovering [Education]>",
-              "[Great Engineer] is earned [+33]% faster <starting from the [era]>",
+              "[Great Engineer] is earned [+33]% faster <starting from the [Industrial era]>",
               "May buy [Great Engineer] units for [200] [Faith] [in this city] at an increasing price ([100]) <before the [Industrial era]>",
               "May buy [Great Engineer] units for [1000] [Faith] [in this city] at an increasing price ([500]) <starting from the [Industrial era]>"
              ],
