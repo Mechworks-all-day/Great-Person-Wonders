@@ -124,7 +124,7 @@
   "requiredTech": "Education"
 },
 {
-  "name": "Military Academy",
+  "name": "Officer Academy",
   "cost": 125,
   "isNationalWonder": true,
   "uniques": [
